@@ -1,0 +1,17 @@
+{
+    "name": "catopalian-nwjs-sqlite-template",
+    "version": "1.0.0",
+    "description": "A template for NWJS SQLite implementation",
+    "main": "index.html",
+    "window":
+    {
+        "title": "CATopalian NWJS SQLite Template",
+        "icon": "src/media/textures/icons/catopalian_true_ai.png",
+        "width": 1280,
+        "height": 720,
+        "position": "center",
+        "resizable": true,
+        "frame": true
+    },
+    "nodejs": true
+}
