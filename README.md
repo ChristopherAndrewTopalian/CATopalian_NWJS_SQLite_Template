@@ -26,6 +26,8 @@ Full Instructions on Running our app here: https://github.com/ChristopherAndrewT
 
 ![bg](app/src/media/textures/bgs/001.jpg)
 
+Video: https://www.youtube.com/watch?v=glbWY8lq3EQ
+
 ---
 
 ### How to Download this App
